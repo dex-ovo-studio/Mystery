@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/studio-banner.svg" alt="D.E.X Studio — Software, design & experience" width="100%">
+<img src="assets/banner.svg" alt="Mystery — D.E.X Studio" width="100%">
 
 # Mystery
 **D.E.X 盲盒与抽奖桌面软件 · Mystery box & lucky draw desktop app**
@@ -28,14 +28,13 @@ Mystery is D.E.X Studio's mystery box and lucky draw desktop app. The website an
 | 安装包 / Installer | [DEX-Setup-2.1.0-x64.exe](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/download/mystery-v2.1.0/DEX-Setup-2.1.0-x64.exe) |
 | 大小 / Size | 140,793,551 bytes |
 | 校验 / Verification | [SHA256SUMS.txt](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/download/mystery-v2.1.0/SHA256SUMS.txt) |
-| 数字签名 / Code signature | 未签名 / Unsigned |
 
 1. 下载固定版本安装包；升级前备份需要保留的本地资料。  
    Download the versioned installer and back up local data before upgrading.
 2. 退出正在运行的 D.E.X，再按安装向导完成安装。  
    Quit D.E.X, then follow the setup wizard.
-3. 核对下载来源及校验值。未签名安装包可能出现 Windows 安全提示。  
-   Verify the source and checksum. Windows may show a security prompt for the unsigned installer.
+3. 核对下载来源及校验值。  
+   Verify the source and checksum. 
 
 <details>
 <summary>SHA-256 · 文件校验 / File verification</summary>
