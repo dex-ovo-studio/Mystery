@@ -1,14 +1,15 @@
-# Mystery · 项目状态 / Project status
+<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/status.svg" alt="Mystery · 版本与开发状态 / Status" width="100%"></p>
 
-| 项目 / Item | 状态 / Status |
+[← Mystery](https://github.com/dex-ovo-studio/Mystery) · [所有软件 / All software](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
+
+**🔵 稳定支持 / Stable support**  
+2.1.0 · Windows x64
+
+| 内容 / Area | 状态 / Status |
 | :--- | :--- |
-| 当前公开版本 / Current public version | **2.1.0 · Windows x64** |
-| 维护阶段 / Maintenance | 稳定支持，暂不安排常规功能更新 / Stable support; routine feature updates on hold |
-| 历史归档 / Archived releases | 0.2.0、1.0.0、1.1.0、1.2.0、2.0.0、2.1.0 |
-| 本地测试 / Local-only build | 1.3.0 Local Test，未公开 / Not publicly released |
-| 客户端源码 / Client source | 私有保留 / Remains private |
+| 公开版本 / Public release | 2.1.0 · Windows x64 |
+| 维护安排 / Support | 当前版本继续提供维护与问题反馈渠道。 / Maintenance and feedback remain available. |
+| 功能更新 / Feature updates | 暂不安排常规功能更新。 / Routine feature updates are on hold. |
+| 历史版本 / Archives | 已发布安装包继续提供下载。 / Published installers remain available. |
 
-核对日期 / Reviewed: **2026-11-15**。依据现有 GitHub Releases 与版本资料整理；本轮未重新测试安装包，也未重新发布软件。  
-Based on existing GitHub Releases and version records. This documentation update does not constitute a new installer test or software release.
-
-[返回介绍 / Overview](README.md) · [发行归档 / Releases](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases)
+[下载 2.1.0 / Download](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0) · [安装指南 / Guide](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本 / History](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history)
