@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mystery — D.E.X Studio" width="100%">
+<img src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/banner.svg" alt="Mystery — D.E.X Studio" width="100%">
 
 # Mystery
 **盲盒与抽奖桌面软件 · Mystery box & lucky draw desktop app**
 
 Windows x64 · **2.1.0** · 稳定支持 / Stable support
 
-[下载 / Download](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0) · [官网 / Website](https://mystery.mydex.top) · [项目状态 / Status](STATUS.md)
+[下载 / Download](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0) · [官网 / Website](https://mystery.mydex.top) · [项目状态 / Status](https://github.com/dex-ovo-studio/Mystery/blob/main/STATUS.md)
 
 </div>
 
@@ -61,7 +61,7 @@ The current release is in stable support, with routine feature updates on hold. 
 | 目录 / File | 用途 / Purpose |
 | :--- | :--- |
 | `README.md` | 产品介绍与官方下载 / Overview and official downloads |
-| [STATUS.md](STATUS.md) | 发布与维护状态 / Release and maintenance status |
+| [STATUS.md](https://github.com/dex-ovo-studio/Mystery/blob/main/STATUS.md) | 发布与维护状态 / Release and maintenance status |
 | `docs/` | 后续公开文档预留 / Reserved for future public documentation |
 
 本仓库不包含私有客户端源码；GitHub 自动生成的 Source code 压缩包仅包含本仓库文档，不是软件安装包。  
