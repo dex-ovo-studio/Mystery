@@ -13,13 +13,13 @@ Windows x64 · **2.1.0** · 稳定支持 / Stable support
 
 ---
 
-## 关于 Mystery · About
+## 项目介绍 · Overview
 
 Mystery 是 D.E.X Studio 的盲盒与抽奖桌面软件，在官网和安装包中使用 **D.E.X** 名称。本仓库提供产品介绍、版本导航和公开状态。
 
 Mystery is D.E.X Studio's mystery box and lucky draw desktop app. The website and installer use the **D.E.X** name. This repository hosts the product overview, release navigation and public status.
 
-## 下载与安装 · Download & install
+## 版本与下载 · Releases & downloads
 
 | 项目 / Item | 内容 / Details |
 | :--- | :--- |
@@ -49,14 +49,14 @@ Get-FileHash -LiteralPath .\DEX-Setup-2.1.0-x64.exe -Algorithm SHA256
 
 </details>
 
-## 版本与支持 · Versions & support
+## 功能与进展 · Features & progress
 
 当前为稳定支持阶段，暂不安排常规功能更新。历史安装包继续保存在原发行仓库，下载地址保持不变。  
 The current release is in stable support, with routine feature updates on hold. Existing installers remain in their original release repository.
 
 [全部历史版本 / Release history](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history) · [安装指南 / Installation guide](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-guide)
 
-## 仓库内容 · Repository contents
+## 文档与支持 · Docs & support
 
 | 目录 / File | 用途 / Purpose |
 | :--- | :--- |
