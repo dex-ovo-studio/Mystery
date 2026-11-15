@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Mystery — D.E.X Studio" width="100%">
 
 # Mystery
-**D.E.X 盲盒与抽奖桌面软件 · Mystery box & lucky draw desktop app**
+**盲盒与抽奖桌面软件 · Mystery box & lucky draw desktop app**
 
 Windows x64 · **2.1.0** · 稳定支持 / Stable support
 
@@ -15,9 +15,9 @@ Windows x64 · **2.1.0** · 稳定支持 / Stable support
 
 ## 项目介绍 · Overview
 
-Mystery 是 D.E.X Studio 的盲盒与抽奖桌面软件，在官网和安装包中使用 **D.E.X** 名称。本仓库提供产品介绍、版本导航和公开状态。
+Mystery 是 D.E.X Studio 旗下的盲盒与抽奖桌面软件。本仓库提供产品介绍、版本导航和公开状态。现有安装包仍保留历史 D.E.X 品牌标识。
 
-Mystery is D.E.X Studio's mystery box and lucky draw desktop app. The website and installer use the **D.E.X** name. This repository hosts the product overview, release navigation and public status.
+Mystery is a mystery box and lucky draw desktop app by D.E.X Studio. This repository hosts its overview, releases and public status. Existing installers retain their historical D.E.X branding.
 
 ## 版本与下载 · Releases & downloads
 
@@ -31,8 +31,8 @@ Mystery is D.E.X Studio's mystery box and lucky draw desktop app. The website an
 
 1. 下载固定版本安装包；升级前备份需要保留的本地资料。  
    Download the versioned installer and back up local data before upgrading.
-2. 退出正在运行的 D.E.X，再按安装向导完成安装。  
-   Quit D.E.X, then follow the setup wizard.
+2. 退出正在运行的 Mystery，再按安装向导完成安装。  
+   Quit Mystery, then follow the setup wizard.
 3. 核对下载来源及校验值。  
    Verify the source and checksum. 
 
