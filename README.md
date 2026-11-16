@@ -1,24 +1,25 @@
-<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/v2/hero.svg" alt="Mystery — 给日常，多一点期待。 / Windows x64 · 2.1.0 · 稳定支持 / Stable support" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/download/mystery-v2.1.0/DEX-Setup-2.1.0-x64.exe"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/v2/action-1.svg" alt="下载 Mystery / Windows x64 installer" width="34.4444%"></a><a href="https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/v2/action-2.svg" alt="安装指南 / Installation guide" width="31.1111%"></a><a href="https://github.com/dex-ovo-studio/Mystery/blob/main/STATUS.md"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/v2/action-3.svg" alt="版本与支持 / Releases &amp; support" width="34.4444%"></a><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/v2/content.svg" alt="盲盒体验 · 抽奖体验 · Windows 桌面 · 版本与支持" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/ui/v2/footer.svg" alt="D.E.X Studio · 所有软件 / All software" width="100%"></a></p>
+# Mystery
 
-<details>
-<summary>展开使用说明与链接 / Read details & links</summary>
+**给日常，多一点期待。**  
+A little surprise, every day.
 
-<details>
-<summary>文字版介绍与常用链接 / Accessible overview & links</summary>
+Windows x64 · 稳定支持 / Stable support · 2.1.0
 
-Windows x64 · 2.1.0 · 稳定支持 / Stable support
+[下载当前版本 / Download](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0) · [安装指南 / Guide](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [版本状态 / Status](https://github.com/dex-ovo-studio/Mystery/blob/main/STATUS.md)
 
-- **盲盒体验**：在桌面上开启一份未知的期待。 A mystery box experience on your desktop.
-- **抽奖体验**：为日常活动增添一点随机惊喜。 A little chance. A little anticipation.
-- **Windows 桌面**：下载安装包，按向导完成安装。 A familiar Windows installation.
-- **版本与支持**：集中查看下载、历史版本与说明。 Clear downloads and release information.
+## 产品概览 / Overview
 
-- [下载 Mystery / Windows x64 installer](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/download/mystery-v2.1.0/DEX-Setup-2.1.0-x64.exe)
-- [安装指南 / Installation guide](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md)
-- [版本与支持 / Releases & support](https://github.com/dex-ovo-studio/Mystery/blob/main/STATUS.md)
+Mystery 是 Windows 桌面上的盲盒与抽奖体验。它把日常的小惊喜放进简单的操作流程。  
+Mystery brings mystery boxes and lucky draws to the Windows desktop.
 
-</details>
+## 下载与支持 / Download & support
 
-[官方网站 / Website](https://mystery.mydex.top) · [历史版本 / Release history](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history)
+从[官方 2.1.0 版本页](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0)下载安装包。现存安装文件沿用历史文件名。  
+Get the installer from the [official 2.1.0 release](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0). The existing installer keeps its historical filename.
 
-</details>
+当前版本继续提供维护与反馈渠道；常规功能更新暂缓。  
+Maintenance and feedback remain available; routine feature updates are on hold.
+
+[安装与升级](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases) · [问题反馈](https://github.com/dex-ovo-studio/Mystery/issues)
+
+[← D.E.X STUDIO](https://github.com/dex-ovo-studio)
