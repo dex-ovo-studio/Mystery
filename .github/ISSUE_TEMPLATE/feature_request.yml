@@ -1,0 +1,27 @@
+name: "功能建议 / Feature request"
+description: "描述一个真实使用场景 / Suggest an improvement for a real use case"
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先确认建议对应的产品及其当前开发状态。
+        Check the product's current status before suggesting a feature.
+  - type: input
+    id: product
+    attributes:
+      label: "产品 / Product"
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: "使用场景 / Use case"
+      description: "描述要解决的问题。 / Describe the problem you want to solve."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "建议方式 / Suggested approach"
+      description: "可选；不需要先设计完整实现。 / Optional; a full implementation is not required."

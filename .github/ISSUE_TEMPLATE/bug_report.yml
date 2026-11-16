@@ -1,0 +1,47 @@
+name: "问题反馈 / Bug report"
+description: "报告可复现的产品问题 / Report a reproducible product issue"
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请勿在公开 Issue 中粘贴订阅地址、账号令牌、密码或未去敏日志。
+        Do not post subscription URLs, account tokens, passwords or unsanitized logs.
+  - type: input
+    id: version
+    attributes:
+      label: "产品与版本 / Product and version"
+      placeholder: "例如 Navio 1.0.0-beta.7"
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: "系统与设备 / OS and device"
+      placeholder: "例如 Windows 11 x64"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "复现步骤 / Steps to reproduce"
+      description: "按发生顺序写清楚具体操作。 / List the actions in order."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "预期结果 / Expected result"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: "实际结果 / Actual result"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "补充信息 / Additional context"
+      description: "仅附去敏后的截图或日志。 / Attach sanitized screenshots or logs only."
