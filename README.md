@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="D.E.X STUDIO · Mystery" width="960">
+</picture>
+
 # Mystery
 
 **给日常，多一点期待。**  
@@ -23,3 +29,6 @@ Maintenance and feedback remain available; routine feature updates are on hold.
 [安装与升级](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases) · [问题反馈](https://github.com/dex-ovo-studio/Mystery/issues)
 
 [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
+
+
+
