@@ -26,7 +26,7 @@ Visit the [Mystery website](https://mystery.mydex.top) first; the published 2.1.
 当前版本继续提供维护与反馈渠道；常规功能更新暂缓。  
 Maintenance and feedback remain available; routine feature updates are on hold.
 
-[安装与升级](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本](https://github.com/dex-ovo-studio/Mystery/releases) · [旧版兼容归档](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases) · [问题反馈](https://github.com/dex-ovo-studio/Mystery/issues)
+[安装与升级](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本](https://github.com/dex-ovo-studio/Mystery/releases) · [状态页历史导航](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history) · [问题反馈](https://github.com/dex-ovo-studio/Mystery/issues)
 
 [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
 
