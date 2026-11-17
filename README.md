@@ -19,6 +19,6 @@ Windows x64 · 2.1.0 · 稳定支持 / Stable support
 
 </details>
 
-[官方网站 / Website](https://mystery.mydex.top) · [历史版本 / Release history](https://github.com/dex-ovo-studio/Mystery/releases) · [旧版兼容归档 / Legacy archive](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history)
+[官方网站 / Website](https://mystery.mydex.top) · [历史版本 / Release history](https://github.com/dex-ovo-studio/Mystery/releases) · [状态页历史导航 / Status history](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history)
 
 </details>

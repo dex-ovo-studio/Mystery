@@ -39,4 +39,4 @@ ff206d3eece2740ea557cc46e8571341cd3acf4b74d073806eb99c5a0d126880
 日常使用建议选择 2.1.0。旧版保留供回溯，不保证兼容当前账号服务。  
 Use 2.1.0 for everyday use. Archived releases may not work with current account services.
 
-[历史版本](https://github.com/dex-ovo-studio/Mystery/releases) · [旧版兼容归档](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history) · [官方网站与反馈 / Website & feedback](https://mystery.mydex.top)
+[历史版本](https://github.com/dex-ovo-studio/Mystery/releases) · [状态页历史导航](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history) · [官方网站与反馈 / Website & feedback](https://mystery.mydex.top)

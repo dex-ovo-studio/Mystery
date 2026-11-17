@@ -15,6 +15,6 @@
 | 功能更新 / Feature updates | 暂不安排常规功能更新。 / Routine feature updates are on hold. |
 | 历史版本 / Archives | 已发布安装包继续提供下载。 / Published installers remain available. |
 
-[下载 2.1.0 / Download](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v2.1.0) · [安装指南 / Guide](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本 / History](https://github.com/dex-ovo-studio/Mystery/releases) · [旧版兼容归档 / Legacy archive](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history)
+[下载 2.1.0 / Download](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v2.1.0) · [安装指南 / Guide](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本 / History](https://github.com/dex-ovo-studio/Mystery/releases) · [状态页历史导航 / Status history](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history)
 
 </details>
