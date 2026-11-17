@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="D.E.X STUDIO · Mystery" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/header-light.svg">
+  <img src="https://raw.githubusercontent.com/dex-ovo-studio/Mystery/main/assets/header-light.svg" alt="D.E.X STUDIO · Mystery" width="960">
 </picture>
 
 # Mystery
