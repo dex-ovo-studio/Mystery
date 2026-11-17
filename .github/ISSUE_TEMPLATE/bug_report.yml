@@ -11,7 +11,7 @@ body:
     id: version
     attributes:
       label: "产品与版本 / Product and version"
-      placeholder: "例如 Navio 1.0.0-beta.7"
+      placeholder: "例如 Mystery 2.1.0 / e.g. Mystery 2.1.0"
     validations:
       required: true
   - type: input
