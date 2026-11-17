@@ -20,13 +20,13 @@ Mystery brings mystery boxes and lucky draws to the Windows desktop.
 
 ## 下载与支持 / Download & support
 
-请先访问[Mystery 官网](https://mystery.mydex.top)了解产品；已公开的 2.1.0 安装包可在[GitHub 版本页](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v2.1.0)下载。安装文件沿用历史文件名。  
-Visit the [Mystery website](https://mystery.mydex.top) first; the published 2.1.0 installer is available from the [GitHub release](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v2.1.0). The installer keeps its historical filename.
+运行安装包前，请按安装指南核对 SHA-256。  
+Verify the installer’s SHA-256 using the installation guide before running it.
 
 当前版本继续提供维护与反馈渠道；常规功能更新暂缓。  
 Maintenance and feedback remain available; routine feature updates are on hold.
 
-[安装与升级](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本](https://github.com/dex-ovo-studio/Mystery/releases) · [状态页历史导航](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history) · [问题反馈](https://github.com/dex-ovo-studio/Mystery/issues)
+[安装与校验 / Install and verify](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md) · [历史版本 / Releases](https://github.com/dex-ovo-studio/Mystery/releases) · [状态页历史导航 / Status history](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#mystery-history) · [问题反馈 / Feedback](https://github.com/dex-ovo-studio/Mystery/issues)
 
 [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
 
