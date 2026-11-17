@@ -13,6 +13,6 @@ This file maps the historical binaries to the verified releases in the Mystery p
 | v1.0.0 | [Product release](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v1.0.0) | `DEX-Setup-1.0.0-x64.exe` | `869008f89b0daf0b8eb4445a7bcc6ab855fb394f13a9b19074247039a92fbf6c` |
 | v0.2.0 | [Product release](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v0.2.0) | `DEX-Setup-0.2.0-x64.exe` | `239f551590aee5c27e2eb7d1914ea6fea1b37ea825c0f478e0076f03e12c8dca` |
 
-原安装器和校验文件在 Mystery 产品仓按原文件名及原始字节保留。请使用上方产品仓版本页；旧软件状态仓发行地址不再作为下载入口。
+原安装器和校验文件在 Mystery 产品仓按原文件名及原始字节保留。本公开文档以产品仓版本页为首选；旧软件状态仓发行地址在外部依赖核查完成前继续保留。
 
-The original installer and checksum file retain their filenames and bytes in the Mystery product repository. Use the product release links above; the former Software Status releases are no longer download destinations.
+The original installer and checksum file retain their filenames and bytes in the Mystery product repository. This public document prefers the product release links above; the former Software Status releases remain available while external dependencies are checked.
